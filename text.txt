@@ -1,0 +1,339 @@
+<h5 style="color: black;">You are on amazon.com</h5>  
+                <p style="color: black;">You can also shop on Amazon India for millions of products with fast local delivery. <a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=713930225169&hvpos=&hvnetw=g&hvrand=13734693191413019066&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007828&hvtargid=kwd-64107830&hydadcr=14452_2402225&gad_source=1 " style="color: rgb(23, 2, 2);">click here to go to amazon.in</a></p> 
+              </p> 
+
+
+
+</div>
+ <div class="box1 box">
+  <div class="box-content">
+    <h2>A wide range of electronics and accessories from Small Buisness</h2>
+  <div class="box-img" style="background-image: url(61Famx7xQwL.AC_SY200.jpg);"></div>
+  <p>see more</p>
+  </div>
+
+</div>
+<div class="box2 box">
+  
+    <div class="box-content">
+      <h2>Unique Products from Stores nearby UPTO 60 % OFF</h2>
+    <div class="box-img" style="background-image: url(./71yrjj1Vk6L.AC_SY200.jpg);"></div>
+    <p>see more</p>
+    </div>
+
+</div>
+<div class="box3 box">
+  
+    <div class="box-content">
+      <h2>Best Sellers in Sports Fitness and Outdoors.PVC HEX dumbells</h2>
+    <div class="box-img" style="background-image: url(./710SxepIfiL.AC_SY175.jpg);"></div>
+    <p>see more</p>
+    </div>
+
+</div>
+<div class="box4 box">
+  
+    <div class="box-content">
+      <h2>Combo Packs Amazon Brands and more</h2>
+    <div class="box-img" style="background-image: url(./desktop_-low_res._SY304_CB542308502.jpg);"></div>
+    <p>see more</p>
+    </div>
+
+
+   <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" >
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./PC_Hero_1_3000._CB582457311_.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block" style="bottom: 50%;">
+                <span class="caption-box">
+                    
+                    <p>
+                      You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery.
+                        <a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=713930225169&hvpos=&hvnetw=g&hvrand=13734693191413019066&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007828&hvtargid=kwd-64107830&hydadcr=14452_2402225&gad_source=1" style="color: black;">click here to go to amazon.in</a>
+                    </p>
+                </span>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="./Boult_3000x1200-PC._CB543542644_.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block" style="bottom: 50%;">
+                <span class="caption-box">
+                    <p>
+                      You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery.
+                        <a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=713930225169&hvpos=&hvnetw=g&hvrand=13734693191413019066&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007828&hvtargid=kwd-64107830&hydadcr=14452_2402225&gad_source=1" style="color: black;">click here to go to amazon.in</a>
+                    </p>
+                </span>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="./Nov_New_3000x1200._CB542180708_.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block" style="bottom: 50%;">
+                <span class="caption-box">
+
+                    <p>
+                      You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery.
+                        <a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=713930225169&hvpos=&hvnetw=g&hvrand=13734693191413019066&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007828&hvtargid=kwd-64107830&hydadcr=14452_2402225&gad_source=1" style="color: black;">click here to go to amazon.in</a>
+                    </p>
+                </span>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+
+responsiveness:
+
+@media (max-width: 1200px) {
+    .navbar {
+        flex-wrap: wrap; 
+        justify-content: center; 
+    }
+    .nav-logo, .nav-signin, .nav-address, .nav-return, .nav-cart {
+        flex: 1 1 100%; 
+        text-align: center;
+    }
+    .logo {
+        margin: 10px auto;
+    }
+    .nav-search {
+        width: 80%; 
+    }
+    .footer-links {
+        flex-wrap: wrap; 
+        gap: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column; 
+        align-items: center;
+        height: auto;
+    }
+    .nav-search {
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .shop-section, .section-a {
+        flex-direction: column;
+    }
+    .box {
+        width: 90%;
+    }
+    .box-content {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .caption-box {
+        width: 90%; 
+        transform: translateX(0);
+    }
+    .footer-links {
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer-column {
+        margin: 10px 0;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        padding: 10px;
+    }
+    .nav-logo, .nav-search {
+        width: 100%; 
+    }
+    .nav-search {
+        margin: 10px auto;
+    }
+    .shop-section, .section-a {
+        padding: 0 10px; 
+    }
+    .box {
+        width: 90%; 
+        margin: 10px auto; 
+    }
+
+    .box-img {
+        width: 100%; 
+        max-height: 200px; 
+
+    .box-content {
+        margin: 10px 0;
+        font-size: 0.9rem; 
+    }
+    .footer-links {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-bottom {
+        padding: 5px 0;
+    }
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+<--- html for signin page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline';">
+
+
+    <title>Sign-In</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="login-container">
+        <h2>Sign-In</h2>
+        <label for="email">Email</label>
+        <input type="text" name="text">
+
+        <label for="password">Passcode</label>
+        <input type="password" name="password">
+
+        <!-- Use an anchor tag styled as a button -->
+        <a href="index.html" class="sign-in-button">Sign-In</a>
+
+        <p>By continuing, you agree to our <a href="#">Conditions of Use</a> and <a href="#">Privacy Notice</a>.</p>
+
+        <hr>
+
+        <p>New to our platform?</p>
+        <a href="#" class="create-account-button">Create your account</a>
+    </div>
+</body>
+</html>
+
+
+<-- css for signin page -->
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    background-color: #ffffff;
+    width: 320px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h2 {
+    color: #111;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    text-align: left;
+    font-size: 14px;
+    color: #555;
+    margin: 10px 0 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.sign-in-button {
+    width: 100%;
+    padding: 10px 110px;
+    background-color: #f0c14b;
+    color: #111;
+    border: 1px solid #a88734;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.sign-in-button:hover {
+    background-color: #ddb347;
+    text-decoration: none;
+}
+
+p {
+    font-size: 12px;
+    color: #555;
+    margin-top: 15px;
+}
+
+a {
+    color: #0066c0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.create-account-button {
+    display: inline-block;
+    padding: 10px;
+    width: 100%;
+    background-color: #e7e9ec;
+    border: 1px solid #a6a9ac;
+    border-radius: 3px;
+    color: #111;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.create-account-button:hover {
+    background-color: #d6d8db;
+}
